@@ -11,7 +11,7 @@ sys.path.append(os.path.join(BASE_DIR, "tools"))
 
 st.set_page_config(page_title="Adaptador Educacional - IA", layout="wide")
 
-st.title("📘 Adaptador de Conteúdo Educacional com IA")
+st.title("📘 Adaptador de Conteúdo Educacional")
 st.markdown("Adapte textos, gere exemplos, atividades e exporte como PDF usando seu pipeline CrewAI.")
 
 with st.form("form"):

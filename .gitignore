@@ -1,0 +1,22 @@
+# Ignorar ambiente virtual
+venv/
+.env
+
+# Ignorar pastas de cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar diretório de saída de arquivos gerados
+output/
+
+# Arquivos temporários ou de sistema
+.DS_Store
+
+# Configurações do VSCode
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# Logs
+*.log

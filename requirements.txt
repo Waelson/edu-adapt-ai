@@ -1,0 +1,7 @@
+crewai==1.5.0
+crewai-tools==1.5.0
+openai==2.8.1
+python-dotenv==1.2.1
+Markdown==3.10
+playwright==1.56.0
+streamlit==1.51.0

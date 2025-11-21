@@ -16,7 +16,7 @@ com estrutura didática.
 - Interface Web
 Aplicação para usar o agente.
 
-## Tela
+## 📘 Tela
 ![Tela do Sistema](images/screen_01.png)
 
 ## 🧪 Requisitos

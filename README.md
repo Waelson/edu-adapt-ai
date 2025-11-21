@@ -30,3 +30,20 @@ Aplicação para usar o agente.
 - Python 3.10+
 - Chromium (instalado automaticamente via playwright install)
 - Ambiente virtual ativado
+
+## 😎 Como usar?
+Faça a configuração do ambiente:
+
+```bash
+make setup
+```
+
+Configure a variável de ambiente da OpenAI:
+```bash
+export OPENAI_API_KEY=jsdhkjsdn...
+```
+
+Execute a aplicação:
+```bash
+make ui
+```

@@ -1,9 +1,6 @@
 ### 📘 Edu Adapt
-Adaptador de Conteúdo Educacional com IA
 
-O edu-adapt-ai é um sistema inteligente baseado em Generative AI, projetado para adaptar conteúdos educacionais automaticamente.
-
-Ideal para professores, pedagogos e criadores de material educacional que desejam acelerar produção de conteúdo de qualidade com IA.
+O Adaptador de Conteúdo Educacional é um sistema inteligente baseado em Generative AI, projetado para adaptar conteúdos educacionais automaticamente. Ideal para professores, pedagogos e criadores de material educacional que desejam acelerar produção de conteúdo de qualidade com IA.
 
 ## 🚀 Funcionalidades
 

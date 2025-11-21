@@ -13,21 +13,16 @@ Ideal para professores, pedagogos e criadores de material educacional que deseja
 
 ## 🚀 Funcionalidades
 
-🔹 Adaptação automática de textos
+- Adaptação automática de textos
 Adequação por nível (iniciante/intermediário/avançado), faixa etária e contexto educacional.
-
-🔹 Geração automática de exemplos
+- Geração automática de exemplos
 Exemplos relevantes, contextualizados e coerentes com o tema.
-
-🔹 Criação de atividades pedagógicas
+- Criação de atividades pedagógicas
 Atividades prontas para sala de aula, baseadas nos exemplos e conteúdo adaptado.
-
-🔹 Validação e geração de conteúdo final
+- Validação e geração de conteúdo final
 com estrutura didática.
-
-🔹 Exportação para PDF
-
-🔹 Interface Web
+- Exportação para PDF
+- Interface Web
 Aplicação para usar o agente.
 
 ## 🧪 Requisitos
